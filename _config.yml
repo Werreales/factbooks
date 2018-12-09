@@ -1,0 +1,12 @@
+url: https://werreales.neocities.org
+
+permalink: pretty
+
+destination: OUT
+
+defaults:
+  - scope:
+      path: ''
+      type: 'pages'
+    values:
+      layout: 'page'

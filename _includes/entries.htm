@@ -1,0 +1,7 @@
+<p><b>{{ include.category | capitalize }}</b>
+
+<ul style="list-style-image: url('{{ site.baseurl }}{% link assets/icon-file.png %}')">
+{% for page in site.pages %}{% if page.path contains include.category %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a>
+{% endif %}{% endfor %}
+</ul>

@@ -1,0 +1,21 @@
+body {
+    font: 12px/1.5 'Open Sans', 'Noto Sans JP', sans-serif;
+    max-width: 800px;
+    text-align: justify;
+}
+
+a {
+    color: crimson;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+}
+
+.factbooks {
+    list-style-image: url('/factbooks/assets/icon-file.png');
+}

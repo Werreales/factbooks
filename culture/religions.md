@@ -44,4 +44,4 @@ The typical profile of a religious person is someone between 30 and 50 years old
   </tbody>
 </table>
 
-<p style="font-size: 90%"><sup>(1)</sup> The Galactic Order of Violets is considered a sect by the Ministry of National Security (MNS). Its activities are monitored by the Police through <a href="{{ site.baseurl }}{% link military/omnivision.html %}">Omnivision</a>.</p>
+<p style="font-size: 90%"><sup>(1)</sup> The Galactic Order of Violets is considered a sect by the Ministry of National Security (MNS). Its activities are monitored by the Police through <a href="{{ site.baseurl }}{% link military/omnivision.md %}">Omnivision</a>.</p>

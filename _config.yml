@@ -1,8 +1,8 @@
-url: https://werreales.neocities.org
+url: https://werreales.github.io
+
+baseurl: /factbooks
 
 permalink: pretty
-
-destination: OUT
 
 defaults:
   - scope:

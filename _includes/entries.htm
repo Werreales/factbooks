@@ -2,6 +2,6 @@
 
 <ul class="factbooks">
 {% for page in site.pages %}{% if page.path contains include.category %}
-    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+    <li><a href="{{ page.url | relative_url }}">{{ page.title }}</a></li>
 {% endif %}{% endfor %}
 </ul>

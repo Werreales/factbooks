@@ -7,6 +7,10 @@ destination: OUT
 defaults:
   - scope:
       path: ''
-      type: 'pages'
     values:
       layout: 'page'
+  -
+    scope:
+      path: 'assets'
+    values:
+      layout: ~

@@ -2,4 +2,4 @@
 title: Supreme Court
 ---
 
-<p>WIP.
+WIP.

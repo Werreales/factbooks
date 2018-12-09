@@ -1,7 +1,7 @@
-<p><b>{{ include.category | capitalize }}</b>
+<p><b>{{ include.category | capitalize }}</b></p>
 
-<ul style="list-style-image: url('{{ site.baseurl }}{% link assets/icon-file.png %}')">
+<ul class="factbooks">
 {% for page in site.pages %}{% if page.path contains include.category %}
-    <li><a href="{{ page.url }}">{{ page.title }}</a>
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endif %}{% endfor %}
 </ul>

@@ -2,4 +2,4 @@
 title: Parliament
 ---
 
-<p>WIP.
+WIP.

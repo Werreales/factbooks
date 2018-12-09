@@ -1,0 +1,23 @@
+---
+title: Diplomacy
+---
+
+<div style="border: 1px solid; padding: 1rem">
+  <p><b>Message from the MFA:</b> The Galactic Federation of Werreales is a country that fight for bringing, promoting and maintaining peace within <a href="https://nationstates.net">NationStates</a>. The Constitution of Werreales states that its final goal is to resolve every conflict by diplomacy and consensus, not by violence. To fulfill this goal, Werreales has to spread its ideals of peace, prosperity and tolerance using its softpower. Will Werreales succeed in bringing peace to the world? Will the country ensure a long and healthy life for everyone? It is up to you. Please join Werreales' fight, for a better world and a better future, by establishing diplomatic relations with your country.</p>
+  
+  <p><a href="https://forum.nationstates.net/viewtopic.php?f=23&t=426455&sid=d64127401ccb0c9da160293eb78854b8">Link to the application.</a></p>
+</p>
+
+This list is maintained by the Ministry of Foreign Affairs (MFA).
+
+---
+
+## Embassies with New World Union countries
+
+- WIP.
+
+---
+
+## Embassies with other NationStates countries
+
+- WIP.

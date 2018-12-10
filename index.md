@@ -13,5 +13,7 @@ Internationally renowned for its advanced technology, its cutting-edge infrastru
 {% include entries.htm category='culture' %}
 {% include entries.htm category='geography' %}
 {% include entries.htm category='politics' %}
+{% include entries.htm category='legislation' %}
 {% include entries.htm category='military' %}
+{% include entries.htm category='international' %}
 {% include entries.htm category='miscellaneous' %}

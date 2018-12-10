@@ -2,23 +2,26 @@
 ---
 
 body {
-    font: 12px/1.5 'Open Sans', 'Noto Sans JP', sans-serif;
-    max-width: 800px;
-    text-align: justify;
+  font: 12px/1.5 'Open Sans', 'Noto Sans JP', sans-serif;
+  max-width: 800px;
 }
 
 a {
-    color: crimson;
+  color: crimson;
 }
 
 table {
-    border-collapse: collapse;
+  border-collapse: collapse;
 }
 
 td {
-    border: 1px solid black;
+  border: 1px solid black;
+}
+
+main {
+  text-align: justify;
 }
 
 .factbooks {
-    list-style-image: url('{{ site.baseurl }}{% link assets/icon-file.png %}');
+  list-style-image: url('{{ site.baseurl }}{% link assets/icon-file.png %}');
 }

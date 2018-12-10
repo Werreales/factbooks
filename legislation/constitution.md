@@ -1,17 +1,17 @@
 ---
-title: Galactic Constitution of Werreales
+title: Constitution of the Galactic Federation of Werreales
 ---
 
 ## Title I - The Galactic Federation
 
 **First Article of the Constitution.**
 
-a. The official denomination is the Galactic Federation of Werreales. The unofficial denomination is Werreales.
-b. The kanjis of Werreales are 上 and 来.
-c. The political system is a parliamentary and federal constitutional monarchy.
-d. The official language is Werai. Other languages are not legally recognized.
-e. The political capital is Shinkyō. The economic capital is Tōbe.
-f. The national flag is the Hinomaru. The national anthem is the Galactic March.
+1. The official denomination is the Galactic Federation of Werreales. The unofficial denomination is Werreales.
+2. The kanjis of Werreales are 上 and 来.
+3. The political system is a parliamentary and federal constitutional monarchy.
+4. The official language is Werai. Other languages are not legally recognized.
+5. The political capital is Shinkyō. The economic capital is Tōbe.
+6. The national flag is the Hinomaru. The national anthem is the Galactic March.
 
 **Article 2.** \\
 The Galactic Federation of Werreales is a free and sovereign nation. It aspires to guarantee peace, prosperity, harmony, justice and well-being to its people. The Federation assures each of his subjects his means of subsistence, his protection as well as the respect of his rights. The Federation also strives to defend political and social order, equity and national interests.

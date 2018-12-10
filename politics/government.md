@@ -2,7 +2,7 @@
 title: Government
 ---
 
-The Government of Werreales, officially the Federal Government of Werreales (上来連邦政府, FGoW), is the governing institution of the Imperial Federation of Werreales. Its structure works on the principles of federalism, ministerial cooperation and democracy. The modern form of the Government, that is the federal system in which Werreales is currently governed, was put in place by Prime Minister AKIRA Junpei on November, 2018 the 30<sup>th</sup> by a national referendum.
+The Government of Werreales, officially the Federal Government of Werreales (abbreviated GoW), is the governing institution of the Imperial Federation of Werreales. Its structure works on the principles of federalism, ministerial cooperation and democracy. The modern form of the Government, that is the [federal system](#federal-administration) in which Werreales is currently governed, was put in place by Prime Minister AKIRA Junpei on November, 2018 the 30<sup>th</sup> by a national referendum.
 
 ---
 
@@ -21,7 +21,7 @@ The current Prime Minister of Werreales is 明淳平, AKIRA Junpei <b style="col
 
 ## Government Composition
 
-The current government was elected by the Parliament on November, 2018 the 30<sup>th</sup> and is effective until Febuary, 2018 the 28<sup>th</sup>. This government is known for cohabiting three political forces. The _Party for a Strong and Sovereign Werreales_ has 3 ministries (not counting the PM), whereas the _Party for a Better Federation_ has 3 ministries. The _Party for People_ only has 2 ministries.
+The current government was elected by the Parliament on November, 2018 the 30<sup>th</sup> and is effective until Febuary, 2018 the 28<sup>th</sup>. This government is known for cohabiting three political forces. The _Party for a Strong and Sovereign Werreales_ has 3 ministries (not counting the PM), whereas the _Party for a Great Country_ has 3 ministries. The _Party for the People_ only has 2 ministries.
 
 **Minister of Economy, Trade, Agriculture, Industry and Innovation**
 : 櫻井博嗣, SAKURAI Hiroshi <b style="color: navy; font-size: 80%">[強国党]</b>
@@ -63,7 +63,7 @@ The Government is composed of **9** ministries and **36** departments.
   - Department of Industrial Connexion
   - Department of Intellectual Property
   - Department of Standardization
-- **Ministry of National Security** (MHS) \\
+- **Ministry of National Security** (MNS) \\
   内国保安省
   - Department of Police
   - Department of Crisis Management
@@ -109,9 +109,22 @@ The Government is composed of **9** ministries and **36** departments.
 
 ---
 
-## Administration
+## Federal Administration
 
-WIP.
+The Werai Administration is decentralized and federal: the Federation delegates some of its decision-making powers to federal states, which in turn delegate their powers to local governments. This organization and the functioning of federal states are codified by the Federal Administration Act.
+
+The Werai administration has seven levels:
+
+1. The State
+2. The Cluster
+3. The Sector
+4. The System
+5. The Planet
+6. The Prefecture
+7. The City
+8. The District
+
+The Cluster has its own constitution, government, parliament and justice system.
 
 ---
 
@@ -148,3 +161,7 @@ Moriuchi (守内, litt. the _House of Defense_) is the seat of the Ministry of D
 This building use the latest technologies to prevent any assault by foreign forces. For this reason, it is one of the best guarded facilities on Earth.
 
 [Picture of the House of Defense, a cutting-edge fortress.](https://qph.fs.quoracdn.net/main-qimg-890a45f0e246e3907ff344bed03c735a)
+
+*[強国党]: Party for a Strong and Sovereign Werreales
+*[高国党]: Party of a Great Country
+*[人の党]: Party for the People

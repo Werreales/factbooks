@@ -1,5 +1,5 @@
 ---
-title: Religions and Beliefs
+title: Religions
 ---
 
 The Galactic Federation of Werreales is a secular country where all religions are welcomed as long as they comply to the law. However, Werai people are vastly atheists, probably because of the importance of science in Werai culture and society. According to a 2018 report from the Ministry of Instruction, Research and Culture (MIRC), 90% of the population is either atheist or agnostic. According to the same report, all young people (18-25 years old) declare themselves as non-religious.

@@ -8,21 +8,26 @@
 <link href="https://fonts.googleapis.com/css?family=Noto+Sans+JP:400,700|Open+Sans:400,400i,700" rel="stylesheet">
 <link href="{{ site.baseurl }}{% link assets/simple.css %}" rel="stylesheet">
 
-<p style="font-size: 80%">
-  <a href="{{ site.baseurl }}">Return to index</a> -
-  <a href="https://www.nationstates.net/nation=werreales">NationStates page</a>
-</p>
+<header>
+  {% if page.url != '/' %}
+    <p style="font-size: 80%"><a href="{{ '/' | relative_url }}">&larr; Return to index</a></p>
+    <hr>
+  {% endif %}
+  <h1 style="font-weight: normal">{{ page.title }}</h1>
+</header>
 
 <hr>
 
-<h1 style="font-weight: normal">{{ page.title }}</h1>
+<main>{{ content }}</main>
 
 <hr>
 
-{{ content }}
-
-<hr>
-
-<p style="font-size: 80%">
-  <img src="https://www.nationstates.net/images/flags/Japan.png" alt="" height=15 style="border: 1px solid; vertical-align: middle"> The Galactic Federation of Werreales, &copy; 2018
-</p>
+<footer style="font-size: 80%">
+  <p>
+    <img src="https://www.nationstates.net/images/flags/Japan.png" alt="" height=15 style="border: 1px solid; vertical-align: middle"> The Galactic Federation of Werreales, &copy; 2018
+  </p>
+  <p>
+    <a href="https://www.nationstates.net/nation=werreales">NationStates page</a> -
+    <a href="https://github.com/Werreales/factbooks">GitHub repo</a>
+  </p>
+</footer>

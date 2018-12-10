@@ -6,7 +6,7 @@ title_jp: 東戸都
 **Tōbe** (東戸 _Tōbe_, litt. _« The East Gate »_), officially the City of Tōbe, is the capital city of Sector Earth. Land of all possibilities, bathed in an infinite sea of technologies and wealth, the City of Tōbe is the historical capital of the Empire. With its limited area, the monstruous population of 500 million citizens live in tall skycrapers and underground facilities. Tōbe is a pole of national and world influence, just like Shinkyō and Urita. Before its creation, Tōbe was known as the Union of Tōkyō-Kōbe, a gathering of former Chūbū, Kantō, and Kansai regions. The City of Tōbe was created on January, 27<sup>th</sup> 2078 by the Government of Werreales to strengthen the power of Sector Earth in the country, and to compete with major areas such as Liberty City or New York. Since April 2078, the General Governor of Tobe is KOIKE Masatoshi <b style="color: grey; font-size: 80%">[高国党]</b>.
 
 <figure style="text-align: center">
-  <img src="https://pre00.deviantart.net/75ba/th/pre/f/2012/172/e/e/neo_tokyo__commission_by_blinck-d54amio.jpg" alt="" width=500>
+  <img src="https://pre00.deviantart.net/75ba/th/pre/f/2012/172/e/e/neo_tokyo__commission_by_blinck-d54amio.jpg" alt="" width="500">
   <figcaption><i>Picture taken in Shibuya from a shrine facing the artificial lake of Higa (比嘉湖)</i></figcaption>
 </figure>
 

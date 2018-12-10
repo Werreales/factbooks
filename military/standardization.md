@@ -1,8 +1,8 @@
 ---
-title: Werreales Standardization System
+title: Werreales Identication System
 ---
 
-The Werreales Standardization System (abbreviated WSS) is a database that identifies all entities within the Galactic Federation of Werreales. It is used for various purposes: _inter alia_, efficient maintenance of infrastructure; fight against illegal trafficking of arms, drugs and goods; and fight against theft and degradation of public goods. This system was designed and is maintained by the Department of Standardization of the Ministry of Economy, Trade, Agriculture, Industry and Innovation (METAII).
+The Werreales Identication System (abbreviated WIS) is a database that identifies all entities within the Galactic Federation of Werreales. It is used for various purposes: _inter alia_, efficient maintenance of infrastructure; fight against illegal trafficking of arms, drugs and goods; and fight against theft and degradation of public goods. This system was designed and is maintained by the Department of Identication of the Ministry of National Security (MNS).
 
 ## Identication key
 
